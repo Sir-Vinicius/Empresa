@@ -2,3 +2,14 @@
 /obj/
 *.sln
 *.csproj
+Empresa.deps.json
+Empresa.dll
+Empresa.exe
+Empresa.pdb
+Empresa.runtimeconfig.dev.json
+Empresa.runtimeconfig.json
+Empresa.csproj.nuget.dgspec.json
+Empresa.csproj.nuget.g.props
+Empresa.csproj.nuget.g.targets
+project.assets.json
+project.nuget.cache
